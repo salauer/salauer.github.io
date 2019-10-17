@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resume | Stephen A. Lauer</title>
+    <link>https://&lt;USERNAME&gt;.github.io/tags/resume/</link>
+      <atom:link href="https://<USERNAME>.github.io/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <description>resume</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jul 2018 01:52:59 -0500</lastBuildDate>
+    <image>
+      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <title>resume</title>
+      <link>https://&lt;USERNAME&gt;.github.io/tags/resume/</link>
+    </image>
+    
+    <item>
+      <title>Vitae</title>
+      <link>https://&lt;USERNAME&gt;.github.io/vitae/</link>
+      <pubDate>Sat, 28 Jul 2018 01:52:59 -0500</pubDate>
+      <guid>https://&lt;USERNAME&gt;.github.io/vitae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.L. Ray, K. Sakrejda, *S.A. Lauer*, M.A. Johansson, and N.G. Reich | Stephen A. Lauer</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/e.l.-ray-k.-sakrejda-s.a.-lauer-m.a.-johansson-and-n.g.-reich/</link>
+      <atom:link href="https://<USERNAME>.github.io/authors/e.l.-ray-k.-sakrejda-s.a.-lauer-m.a.-johansson-and-n.g.-reich/index.xml" rel="self" type="application/rss+xml" />
+    <description>E.L. Ray, K. Sakrejda, *S.A. Lauer*, M.A. Johansson, and N.G. Reich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <title>E.L. Ray, K. Sakrejda, *S.A. Lauer*, M.A. Johansson, and N.G. Reich</title>
+      <link>https://&lt;USERNAME&gt;.github.io/authors/e.l.-ray-k.-sakrejda-s.a.-lauer-m.a.-johansson-and-n.g.-reich/</link>
+    </image>
+    
+    <item>
+      <title>Infectious disease prediction with kernel conditional density estimation</title>
+      <link>https://&lt;USERNAME&gt;.github.io/publication/ray-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://&lt;USERNAME&gt;.github.io/publication/ray-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

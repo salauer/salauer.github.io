@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Stephen A. Lauer</title>
+    <link>https://&lt;USERNAME&gt;.github.io/authors/</link>
+      <atom:link href="https://<USERNAME>.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://&lt;USERNAME&gt;.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://&lt;USERNAME&gt;.github.io/authors/admin/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://&lt;USERNAME&gt;.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher in the &lt;a href=&#34;http://www.iddynamics.jhsph.edu&#34; target=&#34;_blank&#34;&gt;Infectious Disease Dynamics Group&lt;/a&gt; at Johns Hopkins Bloomberg School of Public Health.
+My current research focuses on estimating the burden and distribution of cholera in Bangladesh based on serological biomarkers.&lt;/p&gt;
+
+&lt;p&gt;During my PhD, I worked with the Thailand Ministry of Public Health to &lt;a href=&#34;#publications&#34;&gt;forecast dengue fever incidence&lt;/a&gt; at short and long time scales.
+I also developed a new causal inference technique and applied it to estimate the effect of interventions on dengue incidence (papers in progress).&lt;/p&gt;
+
+&lt;p&gt;Outside of the office, my interests include sports, travel, economics, voting reform, transportation issues, and video games.
+Check out my full &lt;a href=&#34;#experience&#34;&gt;bio&lt;/a&gt; for more details!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S.A. Lauer, K. Sakrejda, E.L. Ray, L.T. Keegan, Q. Bi, P. Suangtho, S. Hinjoy, S. Iamsirithaworn, S. Suthachana, Y. Laosiritaworn, D.A.T. Cummings, J. Lessler, and N.G. Reich</title>
+      <link>https://&lt;USERNAME&gt;.github.io/authors/s.a.-lauer-k.-sakrejda-e.l.-ray-l.t.-keegan-q.-bi-p.-suangtho-s.-hinjoy-s.-iamsirithaworn-s.-suthachana-y.-laosiritaworn-d.a.t.-cummings-j.-lessler-and-n.g.-reich/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://&lt;USERNAME&gt;.github.io/authors/s.a.-lauer-k.-sakrejda-e.l.-ray-l.t.-keegan-q.-bi-p.-suangtho-s.-hinjoy-s.-iamsirithaworn-s.-suthachana-y.-laosiritaworn-d.a.t.-cummings-j.-lessler-and-n.g.-reich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.L. Ray, K. Sakrejda, *S.A. Lauer*, M.A. Johansson, and N.G. Reich</title>
+      <link>https://&lt;USERNAME&gt;.github.io/authors/e.l.-ray-k.-sakrejda-s.a.-lauer-m.a.-johansson-and-n.g.-reich/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://&lt;USERNAME&gt;.github.io/authors/e.l.-ray-k.-sakrejda-s.a.-lauer-m.a.-johansson-and-n.g.-reich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N.G. Reich, *S.A. Lauer*, K. Sakrejda, S. Iamsirithaworn, S. Hinjoy, P. Suangtho, S. Suthachana, H.E. Clapham, H. Salje, D.A.T. Cummings, and J. Lessler</title>
+      <link>https://&lt;USERNAME&gt;.github.io/authors/n.g.-reich-s.a.-lauer-k.-sakrejda-s.-iamsirithaworn-s.-hinjoy-p.-suangtho-s.-suthachana-h.e.-clapham-h.-salje-d.a.t.-cummings-and-j.-lessler/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://&lt;USERNAME&gt;.github.io/authors/n.g.-reich-s.a.-lauer-k.-sakrejda-s.-iamsirithaworn-s.-hinjoy-p.-suangtho-s.-suthachana-h.e.-clapham-h.-salje-d.a.t.-cummings-and-j.-lessler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
