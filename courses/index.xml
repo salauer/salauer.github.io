@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Stephen A. Lauer</title>
-    <link>https://&lt;USERNAME&gt;.github.io/courses/</link>
-      <atom:link href="https://<USERNAME>.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://salauer.github.io/courses/</link>
+      <atom:link href="https://salauer.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <url>https://salauer.github.io/img/icon-192.png</url>
       <title>Courses</title>
-      <link>https://&lt;USERNAME&gt;.github.io/courses/</link>
+      <link>https://salauer.github.io/courses/</link>
     </image>
     
   </channel>

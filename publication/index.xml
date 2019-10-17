@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Stephen A. Lauer</title>
-    <link>https://&lt;USERNAME&gt;.github.io/publication/</link>
-      <atom:link href="https://<USERNAME>.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://salauer.github.io/publication/</link>
+      <atom:link href="https://salauer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <url>https://salauer.github.io/img/icon-192.png</url>
       <title>Publications</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/</link>
+      <link>https://salauer.github.io/publication/</link>
     </image>
     
     <item>
       <title>Prospective forecasts of annual dengue hemorrhagic fever incidence in Thailand, 2010–2014</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/pnas-2018/</link>
+      <link>https://salauer.github.io/publication/pnas-2018/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/pnas-2018/</guid>
+      <guid>https://salauer.github.io/publication/pnas-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infectious disease prediction with kernel conditional density estimation</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/ray-2017/</link>
+      <link>https://salauer.github.io/publication/ray-2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/ray-2017/</guid>
+      <guid>https://salauer.github.io/publication/ray-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges in Real-Time Prediction of Infectious Disease: A Case Study of Dengue in Thailand</title>
-      <link>https://&lt;USERNAME&gt;.github.io/publication/plos-ntd-2016/</link>
+      <link>https://salauer.github.io/publication/plos-ntd-2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/publication/plos-ntd-2016/</guid>
+      <guid>https://salauer.github.io/publication/plos-ntd-2016/</guid>
       <description></description>
     </item>
     

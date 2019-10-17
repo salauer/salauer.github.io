@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Stephen A. Lauer</title>
-    <link>https://&lt;USERNAME&gt;.github.io/tags/</link>
-      <atom:link href="https://<USERNAME>.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://salauer.github.io/tags/</link>
+      <atom:link href="https://salauer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <url>https://salauer.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/</link>
+      <link>https://salauer.github.io/tags/</link>
     </image>
     
     <item>
       <title>travel</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/travel/</link>
+      <link>https://salauer.github.io/tags/travel/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/tags/travel/</guid>
+      <guid>https://salauer.github.io/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resume</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/resume/</link>
+      <link>https://salauer.github.io/tags/resume/</link>
       <pubDate>Sat, 28 Jul 2018 01:52:59 -0500</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/tags/resume/</guid>
+      <guid>https://salauer.github.io/tags/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vitae</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/vitae/</link>
+      <link>https://salauer.github.io/tags/vitae/</link>
       <pubDate>Sat, 28 Jul 2018 01:52:59 -0500</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/tags/vitae/</guid>
+      <guid>https://salauer.github.io/tags/vitae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/source-themes/</link>
+      <link>https://salauer.github.io/tags/source-themes/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/tags/source-themes/</guid>
+      <guid>https://salauer.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/projects/</link>
+      <link>https://salauer.github.io/tags/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/tags/projects/</guid>
+      <guid>https://salauer.github.io/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/deep-learning/</link>
+      <link>https://salauer.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/tags/deep-learning/</guid>
+      <guid>https://salauer.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/demo/</link>
+      <link>https://salauer.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/tags/demo/</guid>
+      <guid>https://salauer.github.io/tags/demo/</guid>
       <description></description>
     </item>
     

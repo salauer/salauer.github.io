@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vitae | Stephen A. Lauer</title>
-    <link>https://&lt;USERNAME&gt;.github.io/tags/vitae/</link>
-      <atom:link href="https://<USERNAME>.github.io/tags/vitae/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://salauer.github.io/tags/vitae/</link>
+      <atom:link href="https://salauer.github.io/tags/vitae/index.xml" rel="self" type="application/rss+xml" />
     <description>vitae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jul 2018 01:52:59 -0500</lastBuildDate>
     <image>
-      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <url>https://salauer.github.io/img/icon-192.png</url>
       <title>vitae</title>
-      <link>https://&lt;USERNAME&gt;.github.io/tags/vitae/</link>
+      <link>https://salauer.github.io/tags/vitae/</link>
     </image>
     
     <item>
       <title>Vitae</title>
-      <link>https://&lt;USERNAME&gt;.github.io/vitae/</link>
+      <link>https://salauer.github.io/vitae/</link>
       <pubDate>Sat, 28 Jul 2018 01:52:59 -0500</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/vitae/</guid>
+      <guid>https://salauer.github.io/vitae/</guid>
       <description></description>
     </item>
     

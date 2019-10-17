@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects | Stephen A. Lauer</title>
-    <link>https://&lt;USERNAME&gt;.github.io/categories/projects/</link>
-      <atom:link href="https://<USERNAME>.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://salauer.github.io/categories/projects/</link>
+      <atom:link href="https://salauer.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     <image>
-      <url>https://<USERNAME>.github.io/img/icon-192.png</url>
+      <url>https://salauer.github.io/img/icon-192.png</url>
       <title>projects</title>
-      <link>https://&lt;USERNAME&gt;.github.io/categories/projects/</link>
+      <link>https://salauer.github.io/categories/projects/</link>
     </image>
     
     <item>
       <title>Projects</title>
-      <link>https://&lt;USERNAME&gt;.github.io/projects/</link>
+      <link>https://salauer.github.io/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      <guid>https://&lt;USERNAME&gt;.github.io/projects/</guid>
+      <guid>https://salauer.github.io/projects/</guid>
       <description></description>
     </item>
     
