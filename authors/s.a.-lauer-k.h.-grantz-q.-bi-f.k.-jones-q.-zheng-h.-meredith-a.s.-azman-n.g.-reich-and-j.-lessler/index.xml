@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.A. Lauer, K.H. Grantz, Q. Bi, F.K. Jones, Q. Zheng, H. Meredith, A.S. Azman, N.G. Reich, and J. Lessler | Stephen A. Lauer</title>
+    <link>https://salauer.github.io/authors/s.a.-lauer-k.h.-grantz-q.-bi-f.k.-jones-q.-zheng-h.-meredith-a.s.-azman-n.g.-reich-and-j.-lessler/</link>
+      <atom:link href="https://salauer.github.io/authors/s.a.-lauer-k.h.-grantz-q.-bi-f.k.-jones-q.-zheng-h.-meredith-a.s.-azman-n.g.-reich-and-j.-lessler/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.A. Lauer, K.H. Grantz, Q. Bi, F.K. Jones, Q. Zheng, H. Meredith, A.S. Azman, N.G. Reich, and J. Lessler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://salauer.github.io/img/icon-192.png</url>
+      <title>S.A. Lauer, K.H. Grantz, Q. Bi, F.K. Jones, Q. Zheng, H. Meredith, A.S. Azman, N.G. Reich, and J. Lessler</title>
+      <link>https://salauer.github.io/authors/s.a.-lauer-k.h.-grantz-q.-bi-f.k.-jones-q.-zheng-h.-meredith-a.s.-azman-n.g.-reich-and-j.-lessler/</link>
+    </image>
+    
+    <item>
+      <title>The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application</title>
+      <link>https://salauer.github.io/publication/medrxiv-2020/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://salauer.github.io/publication/medrxiv-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

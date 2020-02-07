@@ -5,12 +5,20 @@
     <link>https://salauer.github.io/publication/</link>
       <atom:link href="https://salauer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://salauer.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://salauer.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>The incubation period of 2019-nCoV from publicly reported confirmed cases: estimation and application</title>
+      <link>https://salauer.github.io/publication/medrxiv-2020/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://salauer.github.io/publication/medrxiv-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prospective forecasts of annual dengue hemorrhagic fever incidence in Thailand, 2010–2014</title>
