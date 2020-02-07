@@ -26,10 +26,11 @@
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://salauer.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral researcher in the &lt;a href=&#34;http://www.iddynamics.jhsph.edu&#34; target=&#34;_blank&#34;&gt;Infectious Disease Dynamics Group&lt;/a&gt; at Johns Hopkins Bloomberg School of Public Health.
-My current research focuses on estimating the burden and distribution of cholera in Bangladesh based on serological biomarkers.&lt;/p&gt;
+My current research focuses on estimating the burden and distribution of cholera in Bangladesh based on serological biomarkers.
+As a side project, I have estimated some of the epidemiological parameters of the recent &lt;a href=&#34;https://github.com/HopkinsIDD/ncov_incubation&#34; target=&#34;_blank&#34;&gt;2019-nCoV outbreak&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;During my PhD at &lt;a href=&#34;https://reichlab.io&#34; target=&#34;_blank&#34;&gt;UMass&lt;/a&gt;, I worked with the Thailand Ministry of Public Health to &lt;a href=&#34;#publications&#34;&gt;forecast dengue fever incidence&lt;/a&gt; at short and long time scales.
-I also developed a new causal inference technique and applied it to estimate the effect of interventions on dengue incidence (papers in progress).&lt;/p&gt;
+During my time as a grad student, I developed a number of Shiny web applications for various projects (&lt;a href=&#34;https://seigma.shinyapps.io/income/&#34; target=&#34;_blank&#34;&gt;SEIGMA&lt;/a&gt;, &lt;a href=&#34;https://iddynamics.jhsph.edu/apps/connect/dengue_forecast/&#34; target=&#34;_blank&#34;&gt;dengue predictions&lt;/a&gt;, and &lt;a href=&#34;https://iddynamics.jhsph.edu/apps/connect/ALERT/&#34; target=&#34;_blank&#34;&gt;ALERT&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;Outside of the office, my interests include sports, &lt;a href=&#34;https://salauer.github.io/2019/10/17/reflecting-back-on-the-old-travel-blog/&#34; target=&#34;_blank&#34;&gt;travel&lt;/a&gt;, economics, voting reform, transportation issues, and video games.
 Check out my full &lt;a href=&#34;#experience&#34;&gt;bio&lt;/a&gt; for more details!&lt;/p&gt;
